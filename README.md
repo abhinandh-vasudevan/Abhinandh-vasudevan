@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Abhinandh!
 
-I'm a Software Engineer & QA Intelligence Intern at Stats Perform, passionate about building reliable automation systems, improving operational workflows, and exploring modern technologies across QA, backend systems, DevOps, and AI-driven solutions.
+I'm a Software Engineer at Stats Perform, passionate about building reliable automation systems, improving operational workflows, and exploring modern technologies across QA, backend systems, DevOps, and AI-driven solutions.
 
 I enjoy working on real-world production systems, solving complex problems, testing large-scale applications, and continuously learning how enterprise-level platforms operate behind the scenes.
 
